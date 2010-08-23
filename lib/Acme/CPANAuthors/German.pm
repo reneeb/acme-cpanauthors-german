@@ -21,6 +21,7 @@ use Acme::CPANAuthors::Register (
     MLEHMANN => 'Marc Lehmann',
     PHAYLON  => 'Robert \'phaylon\' Sedlacek',
     PLU      => 'Johannes Plunien',
+    RBO      => 'Robert Bohne',
     RENEEB   => 'Renee Baecker',
     SCHWIGON => 'Steffen "renormalist" Schwigon',
     SMUELLER => 'Steffen Müller',
