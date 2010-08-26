@@ -11,6 +11,7 @@ use Acme::CPANAuthors::Register (
     CORION   => 'Max Maischein',
     FANY     => 'Martin H. Sluka',
     FLORA    => 'Florian "rafl" Ragwitz',
+    GETTY    => 'Torsten Raudssus',
     GRICHTER => 'Gerald Richter',
     HOLLI    => 'Markus Holzer',
     HORNBURG => 'Stefan Hornburg',
