@@ -9,6 +9,7 @@ use Acme::CPANAuthors::Register (
     ANNO     => 'Anno Siegel',
     CFAERBER => 'Claus Färber',
     CORION   => 'Max Maischein',
+    DATA     => "Danijel Tašov"
     FANY     => 'Martin H. Sluka',
     FLORA    => 'Florian "rafl" Ragwitz',
     GETTY    => 'Torsten Raudssus',
