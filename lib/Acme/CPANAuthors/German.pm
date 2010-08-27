@@ -3,6 +3,7 @@ package Acme::CPANAuthors::German;
 
 use strict;
 use warnings;
+use utf8;
 
 use Acme::CPANAuthors::Register (
     AGROLMS  => 'Achim Grolms',
