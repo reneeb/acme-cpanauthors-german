@@ -1,5 +1,8 @@
-0.04
+#  date "+%a, %d %b %Y %H:%M:%S %z"
+
+0.04  Sat, 28 Aug 2010 11:45:10 +0200
   * Add rbo, getty, data, Eikeg
+  * use utf8
 
 0.03  Mon, 10 Aug 2009 13:10:23 +0200
   * Add Mario.
