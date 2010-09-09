@@ -59,7 +59,7 @@ This class provides a hash of Pause ID/name of German CPAN authors.
 
 =head1 MAINTENANCE
 
-If you are an Austrian CPAN author and are not listed here, please mail me. If
+If you are an German CPAN author and are not listed here, please mail me. If
 you are listed and don't want to be, mail me as well.
 
 =head1 SEE ALSO
